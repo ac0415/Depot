@@ -11,3 +11,9 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+ruby:
+  title: Polaroid One 600 Classic Blue
+  description: To prepare this Polaroid film camera for the shoot, you need to load in the 600 instant film. Moms, dad, uncle or aunt can easily use this Polaroid instant camera, as its design and functionality is extremely simplistic. Fill the camera frame with your subjects visage by taking the shot from as close as 3 feet with this Polaroid instant camera. Picture count and feature settings are displayed on the LCD of this Polaroid instant camera, so you stay in control of your shots. For photographing at night and in dimly lit areas, the Polaroid One600 Classic camera features Autoflash.
+  price: 15.00
+  image_url: polaroid.jpg
