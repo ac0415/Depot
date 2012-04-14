@@ -2831,3 +2831,155 @@ Served asset /necklace.jpg - 304 Not Modified (3ms)
 
 Started GET "/assets/iphone.jpg" for 127.0.0.1 at 2012-04-14 00:00:02 +0800
 Served asset /iphone.jpg - 304 Not Modified (2ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2012-04-14 20:35:18 +0800
+Processing by ProductsController#index as HTML
+  [1m[36mProduct Load (0.1ms)[0m  [1mSELECT "products".* FROM "products" [0m
+  Rendered products/index.html.erb within layouts/application (93.7ms)
+Completed 200 OK in 576ms (Views: 467.9ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-04-14 20:35:19 +0800
+Served asset /application.css - 200 OK (4ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-04-14 20:35:19 +0800
+Served asset /scaffolds.css - 200 OK (4ms)
+
+
+Started GET "/assets/products.css?body=1" for 127.0.0.1 at 2012-04-14 20:35:19 +0800
+Served asset /products.css - 200 OK (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-04-14 20:35:19 +0800
+Served asset /jquery.js - 200 OK (205ms)
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2012-04-14 20:35:20 +0800
+Served asset /store.css - 200 OK (4ms)
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2012-04-14 20:35:20 +0800
+Served asset /store.js - 200 OK (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-04-14 20:35:20 +0800
+Served asset /jquery_ujs.js - 200 OK (1ms)
+
+
+Started GET "/assets/products.js?body=1" for 127.0.0.1 at 2012-04-14 20:35:20 +0800
+Served asset /products.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-04-14 20:35:20 +0800
+Served asset /application.js - 200 OK (6ms)
+
+
+Started GET "/assets/castle.jpg" for 127.0.0.1 at 2012-04-14 20:35:20 +0800
+Served asset /castle.jpg - 200 OK (42ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-04-14 20:35:20 +0800
+Served asset /logo.png - 200 OK (21ms)
+
+
+Started GET "/assets/iphone.jpg" for 127.0.0.1 at 2012-04-14 20:35:20 +0800
+Served asset /iphone.jpg - 200 OK (7ms)
+
+
+Started GET "/assets/polaroid.jpg" for 127.0.0.1 at 2012-04-14 20:35:20 +0800
+Served asset /polaroid.jpg - 200 OK (15ms)
+
+
+Started GET "/assets/necklace.jpg" for 127.0.0.1 at 2012-04-14 20:35:20 +0800
+Served asset /necklace.jpg - 200 OK (17ms)
+
+
+Started GET "/assets/maple.jpg" for 127.0.0.1 at 2012-04-14 20:35:20 +0800
+Served asset /maple.jpg - 200 OK (18ms)
+
+
+Started GET "/assets/whee.jpg" for 127.0.0.1 at 2012-04-14 20:35:20 +0800
+Served asset /whee.jpg - 200 OK (30ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2012-04-14 20:48:55 +0800
+Processing by ProductsController#index as HTML
+  [1m[36mProduct Load (0.1ms)[0m  [1mSELECT "products".* FROM "products" [0m
+  Rendered products/index.html.erb within layouts/application (35.5ms)
+Compiled store.css  (16ms)  (pid 4664)
+Compiled application.css  (137ms)  (pid 4664)
+Completed 200 OK in 258ms (Views: 210.1ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-04-14 20:48:55 +0800
+Served asset /application.css - 200 OK (10ms)
+
+
+Started GET "/assets/products.css?body=1" for 127.0.0.1 at 2012-04-14 20:48:55 +0800
+Served asset /products.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2012-04-14 20:48:55 +0800
+Served asset /store.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-04-14 20:48:55 +0800
+Served asset /jquery.js - 304 Not Modified (12ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-04-14 20:48:55 +0800
+Served asset /scaffolds.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-04-14 20:48:55 +0800
+Served asset /jquery_ujs.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/products.js?body=1" for 127.0.0.1 at 2012-04-14 20:48:55 +0800
+Served asset /products.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2012-04-14 20:48:55 +0800
+Served asset /store.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-04-14 20:48:55 +0800
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2012-04-14 20:48:55 +0800
+Served asset /logo.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/necklace.jpg" for 127.0.0.1 at 2012-04-14 20:48:55 +0800
+Served asset /necklace.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/iphone.jpg" for 127.0.0.1 at 2012-04-14 20:48:55 +0800
+Served asset /iphone.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/polaroid.jpg" for 127.0.0.1 at 2012-04-14 20:48:55 +0800
+Served asset /polaroid.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/castle.jpg" for 127.0.0.1 at 2012-04-14 20:48:55 +0800
+Served asset /castle.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/maple.jpg" for 127.0.0.1 at 2012-04-14 20:48:55 +0800
+Served asset /maple.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/whee.jpg" for 127.0.0.1 at 2012-04-14 20:48:55 +0800
+Served asset /whee.jpg - 304 Not Modified (0ms)
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.2ms)[0m  select sqlite_version(*)
+  [1m[36m (101.5ms)[0m  [1mCREATE TABLE "products" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "description" text, "image_url" varchar(255), "price" decimal(8,2), "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (71.7ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.2ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (93.6ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.2ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (70.0ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20120412062755')
